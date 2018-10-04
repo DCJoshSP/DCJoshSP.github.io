@@ -1,0 +1,15 @@
+<html>
+
+<title>
+Epic webiste
+</title>
+
+<h1>
+This is my new website
+</h1>
+
+<body>
+RAW text, school coding website
+</body>
+
+</html>
